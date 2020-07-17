@@ -2,3 +2,5 @@ macbook air
 macbook pro
 imac
 ipad
+watch
+tv
