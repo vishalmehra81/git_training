@@ -1,2 +1,4 @@
 macbook air
 macbook pro
+imac
+ipad
